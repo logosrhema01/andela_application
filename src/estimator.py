@@ -21,8 +21,8 @@ ghana=inputData("Ghana")
 ghana.regionInputData(19.7,5,0.71)
 ghana.inputData2("days",58,674,66622705,1380614)
 print(ghana.mainData())
-def estimator(input_data):
+'''def estimator(input_data):
     input_data()
     impact()
-    sever
-    return data
+    sever()
+    return data'''
