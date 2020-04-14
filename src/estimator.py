@@ -24,5 +24,5 @@ print(ghana.mainData())
 '''def estimator(input_data):
     input_data()
     impact()
-    sever
+    sever()
     return data'''
